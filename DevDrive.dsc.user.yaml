@@ -16,7 +16,7 @@ properties:
      settings:
        DiskId: '0'
        DiskIdType: 'Number'
-       DriveLetter: 'Z'
+       DriveLetter: 'E'
        FSLabel: 'Dev Drive 1'
        DevDrive: true
        AllowDestructive: true
